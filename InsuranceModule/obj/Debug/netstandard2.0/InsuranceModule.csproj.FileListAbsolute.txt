@@ -1,0 +1,12 @@
+C:\Users\kwerema\source\InsuranceModule\bin\Debug\netstandard2.0\CommonModule.dll
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.csprojAssemblyReference.cache
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.csproj.CoreCompileInputs.cache
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.AssemblyInfoInputs.cache
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.AssemblyInfo.cs
+C:\Users\kwerema\source\InsuranceModule\bin\Debug\netstandard2.0\InsuranceModule.deps.json
+C:\Users\kwerema\source\InsuranceModule\bin\Debug\netstandard2.0\InsuranceModule.dll
+C:\Users\kwerema\source\InsuranceModule\bin\Debug\netstandard2.0\InsuranceModule.pdb
+C:\Users\kwerema\source\InsuranceModule\bin\Debug\netstandard2.0\CommonModule.pdb
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.csproj.CopyComplete
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.dll
+C:\Users\kwerema\source\InsuranceModule\obj\Debug\netstandard2.0\InsuranceModule.pdb

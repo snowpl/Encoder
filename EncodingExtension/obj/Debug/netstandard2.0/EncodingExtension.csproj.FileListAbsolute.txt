@@ -1,0 +1,6 @@
+C:\Users\kwerema\source\repos\EncodingExtension\bin\Debug\netstandard2.0\EncodingExtension.deps.json
+C:\Users\kwerema\source\repos\EncodingExtension\bin\Debug\netstandard2.0\EncodingExtension.dll
+C:\Users\kwerema\source\repos\EncodingExtension\obj\Debug\netstandard2.0\EncodingExtension.csprojAssemblyReference.cache
+C:\Users\kwerema\source\repos\EncodingExtension\obj\Debug\netstandard2.0\EncodingExtension.csproj.CoreCompileInputs.cache
+C:\Users\kwerema\source\repos\EncodingExtension\obj\Debug\netstandard2.0\EncodingExtension.AssemblyInfoInputs.cache
+C:\Users\kwerema\source\repos\EncodingExtension\obj\Debug\netstandard2.0\EncodingExtension.AssemblyInfo.cs
